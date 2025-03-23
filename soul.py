@@ -1,5 +1,5 @@
 import requests
-url = "https://https://telegram.org/support"
+url = "https://telegram.org/support"
 
 data = {
     "problem": "This channel https://t.me/EngineMod is running illegal activities.\n"
