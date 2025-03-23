@@ -2,7 +2,7 @@ import requests
 url = "https://t.me/EngineMod"
 
 data = {
-    "problem": "This channel https://t.me/EngineModis running illegal activities.\n"
+    "problem": "This channel https://t.me/EngineMod is running illegal activities.\n"
     "It takes money from people to teach DDoS attacks on BGMI, hacking courses,\n"
     "and attacks on Indian government sites. It also performs DDoS attacks on Telegram VCs.\n"
     "Now, the channel owner has cleared history, so please review its past week's logs.",
